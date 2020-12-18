@@ -4,7 +4,7 @@
 git stash
 
 # Verify correct branch
-git checkout develop
+git checkout dev
 
 # Build new files
 stack exec blog clean
@@ -25,6 +25,6 @@ git commit -m "Publish."
 git push origin master:master
 
 # Restoration
-git checkout develop
+git checkout dev
 git branch -D master
 git stash pop
