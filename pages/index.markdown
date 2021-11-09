@@ -20,4 +20,5 @@ I love computers, mathematics and optimizations. Haskell is my favourite program
 - [simsim](https://github.com/schnecki/simsim): A fast manufacturing system simluation
 - [grenade](https://github.com/schnecki/grenade): An ANN implemenation, forked and extended from [https://github.com/HuwCampbell/grenade]
 - [dot-emacs.d](https://github.com/schnecki/dot-emacs.d): My Emacs setup
-- [borl-releaser](https://github.com/HuwCampbell/borl-releaser): Releasing orders using ARAL
+- [borl-releaser](https://github.com/schnecki/borl-releaser): Releasing orders using ARAL
+- ...
