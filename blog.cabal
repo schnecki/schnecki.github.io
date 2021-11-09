@@ -1,10 +1,10 @@
 cabal-version: 1.12
 
--- This file has been generated from package.yaml by hpack version 0.33.0.
+-- This file has been generated from package.yaml by hpack version 0.34.4.
 --
 -- see: https://github.com/sol/hpack
 --
--- hash: f94c719ef0a156d79adc368abf83e05367a12767c3a5282cfc42a529459f0c62
+-- hash: 4d69fc2d05f497b4f7a34b838652b4a0935dfcd1536669ee3c3a8cea55e9829a
 
 name:           blog
 version:        0.1.0.0
@@ -15,7 +15,6 @@ author:         Manuel Schneckenreither
 maintainer:     manuel.schneckenreither@uibk.ac.at
 copyright:      2020 Manuel Schneckenreither
 license:        AllRightsReserved
-license-file:   LICENSE
 build-type:     Simple
 extra-source-files:
     README.md
